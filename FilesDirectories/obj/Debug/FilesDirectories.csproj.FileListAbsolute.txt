@@ -1,0 +1,7 @@
+C:\Users\arunk\source\repos\FilesDirectories\FilesDirectories\bin\Debug\FilesDirectories.exe.config
+C:\Users\arunk\source\repos\FilesDirectories\FilesDirectories\bin\Debug\FilesDirectories.exe
+C:\Users\arunk\source\repos\FilesDirectories\FilesDirectories\bin\Debug\FilesDirectories.pdb
+C:\Users\arunk\source\repos\FilesDirectories\FilesDirectories\obj\Debug\FilesDirectories.csproj.AssemblyReference.cache
+C:\Users\arunk\source\repos\FilesDirectories\FilesDirectories\obj\Debug\FilesDirectories.csproj.CoreCompileInputs.cache
+C:\Users\arunk\source\repos\FilesDirectories\FilesDirectories\obj\Debug\FilesDirectories.exe
+C:\Users\arunk\source\repos\FilesDirectories\FilesDirectories\obj\Debug\FilesDirectories.pdb
